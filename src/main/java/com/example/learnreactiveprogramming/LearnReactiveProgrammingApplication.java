@@ -1,13 +1,13 @@
-package com.example.learnreactiveprograming;
+package com.genuinecoder.learnreactiveprogramming;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearnReactiveProgramingApplication {
+public class LearnReactiveProgrammingApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LearnReactiveProgramingApplication.class, args);
+        SpringApplication.run(LearnReactiveProgrammingApplication.class, args);
     }
 
 }

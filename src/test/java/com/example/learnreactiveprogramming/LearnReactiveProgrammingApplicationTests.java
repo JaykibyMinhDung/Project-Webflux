@@ -1,10 +1,10 @@
-package com.example.learnreactiveprograming;
+package com.genuinecoder.learnreactiveprogramming;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearnReactiveProgramingApplicationTests {
+class LearnReactiveProgrammingApplicationTests {
 
     @Test
     void contextLoads() {
